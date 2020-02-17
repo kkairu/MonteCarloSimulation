@@ -273,23 +273,23 @@ print(counts/N)
     Liverpool            1.0  1.00    1.00       0.00
     Man City             0.0  1.00    1.00       0.00
     Leicester            0.0  1.00    1.00       0.00
-    Chelsea              0.0  0.50    0.75       0.00
-    Tottenham            0.0  0.28    0.56       0.00
-    Sheffield United     0.0  0.07    0.23       0.00
+    Chelsea              0.0  0.48    0.71       0.00
+    Tottenham            0.0  0.28    0.52       0.00
+    Sheffield United     0.0  0.15    0.34       0.00
     Everton              0.0  0.00    0.03       0.00
-    Wolves               0.0  0.09    0.18       0.00
-    Man United           0.0  0.05    0.17       0.00
-    Burnley              0.0  0.00    0.00       0.00
-    Arsenal              0.0  0.01    0.08       0.00
+    Wolves               0.0  0.03    0.16       0.00
+    Man United           0.0  0.05    0.19       0.00
+    Burnley              0.0  0.00    0.02       0.00
+    Arsenal              0.0  0.00    0.02       0.00
     Newcastle            0.0  0.00    0.00       0.02
-    Southampton          0.0  0.00    0.00       0.00
-    Crystal Palace       0.0  0.00    0.00       0.08
-    Brighton             0.0  0.00    0.00       0.12
-    Bournemouth          0.0  0.00    0.00       0.51
-    Aston Villa          0.0  0.00    0.00       0.46
-    West Ham             0.0  0.00    0.00       0.29
-    Watford              0.0  0.00    0.00       0.56
-    Norwich              0.0  0.00    0.00       0.96
+    Southampton          0.0  0.01    0.01       0.01
+    Crystal Palace       0.0  0.00    0.00       0.03
+    Brighton             0.0  0.00    0.00       0.24
+    Bournemouth          0.0  0.00    0.00       0.43
+    Aston Villa          0.0  0.00    0.00       0.41
+    West Ham             0.0  0.00    0.00       0.27
+    Watford              0.0  0.00    0.00       0.60
+    Norwich              0.0  0.00    0.00       0.99
     
 
 
@@ -329,50 +329,50 @@ new_results[new_results['HomeTeam'] == 'Chelsea']
       <th>109</th>
       <td>Chelsea</td>
       <td>Watford</td>
-      <td>4</td>
+      <td>2</td>
       <td>0</td>
     </tr>
     <tr>
       <th>110</th>
       <td>Chelsea</td>
       <td>Tottenham</td>
-      <td>0</td>
+      <td>1</td>
       <td>2</td>
     </tr>
     <tr>
       <th>111</th>
       <td>Chelsea</td>
       <td>Man United</td>
+      <td>2</td>
       <td>0</td>
-      <td>4</td>
     </tr>
     <tr>
       <th>112</th>
       <td>Chelsea</td>
       <td>Everton</td>
-      <td>1</td>
-      <td>1</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
       <th>113</th>
       <td>Chelsea</td>
       <td>Norwich</td>
-      <td>1</td>
-      <td>3</td>
+      <td>6</td>
+      <td>2</td>
     </tr>
     <tr>
       <th>114</th>
       <td>Chelsea</td>
       <td>Man City</td>
+      <td>3</td>
       <td>1</td>
-      <td>2</td>
     </tr>
     <tr>
       <th>115</th>
       <td>Chelsea</td>
       <td>Wolves</td>
-      <td>2</td>
-      <td>2</td>
+      <td>3</td>
+      <td>3</td>
     </tr>
   </tbody>
 </table>
